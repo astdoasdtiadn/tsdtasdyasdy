@@ -1,1 +1,7 @@
-getgenv().PRIORITY = {"Anububu", "Meta Technetta", "Noobini Infeeny", "Magmew"}
+getgenv().PRIORITY = {
+  "Anububu",
+  "Meta Technetta",
+  "Noobini Infeeny",
+  "Magmew",
+  "Don Magmito"
+}
