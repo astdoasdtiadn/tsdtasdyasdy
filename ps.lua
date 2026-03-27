@@ -7,5 +7,5 @@ getgenv().PRIORITY   = {
     "Reinito sleighito", "Cerberus",
     "Celestial Pegasus", "Love Love Bear", "Festive 67", "Ginger Gerat",
     "Ketupat Bros", "Rosey and Teddy", "Griffin", "Signore Carapace", "Dug Dug Dug",
-    "Cloverat Clapat"
+    "Cloverat Clapat", "La Secret Combinasion"
 }
