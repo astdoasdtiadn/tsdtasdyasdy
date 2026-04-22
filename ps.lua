@@ -9,5 +9,5 @@ getgenv().PRIORITY   = {
     "Ketupat Bros", "Rosey and Teddy", "Griffin", "Signore Carapace", "Dug Dug Dug",
     "Cloverat Clapat", "Foxini Lanternini", "Hydra Bunny",
     "Boppin bunny", "Los Primos", "La Secret Combinasion", "Fragola La La La",
-    "Fishino Clownino"
+    "Fishino Clownino", "Antonio"
 }
