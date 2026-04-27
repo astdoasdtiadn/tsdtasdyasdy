@@ -10,5 +10,6 @@ getgenv().PRIORITY   = {
     "Cloverat Clapat", "Foxini Lanternini", "Hydra Bunny",
     "Boppin bunny", "Los Primos", "La Secret Combinasion", "Fragola La La La",
     "Fishino Clownino", "Antonio", "Chillin Chili", "Gym Bros", "Los Chillis",
-    "Money Money Bros", "Money Money Reindeer", "Tirilikalika Tirilikalako"
+    "Money Money Bros", "Money Money Reindeer", "Tirilikalika Tirilikalako",
+    "Lazy Ducky"
 }
