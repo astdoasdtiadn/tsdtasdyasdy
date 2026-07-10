@@ -12,5 +12,5 @@ getgenv().PRIORITY   = {
     "Fishino Clownino", "Antonio", "Chillin Chili", "Gym Bros", "Los Chillis",
     "Money Money Bros", "Money Money Reindeer", "Tirilikalika Tirilikalako",
     "Lazy Ducky", "Guest 666", "Arcadragon", "Kraken", "Bearito Cabinito",
-    "Rubrikiko", "Venuspino", "Los Sekolahs", "Dragon Aquanini"
+    "Rubrikiko", "Venuspino", "Los Sekolahs", "Dragon Aquanini", "Globa Steppa"
 }
