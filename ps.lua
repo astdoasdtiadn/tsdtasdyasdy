@@ -13,5 +13,6 @@ getgenv().PRIORITY   = {
     "Money Money Bros", "Money Money Reindeer", "Tirilikalika Tirilikalako",
     "Lazy Ducky", "Guest 666", "Arcadragon", "Kraken", "Bearito Cabinito",
     "Rubrikiko", "Venuspino", "Los Sekolahs", "Dragon Aquanini", "Globa Steppa",
-    "Gambatron", "Bumbatron", "La Fuse Machine", "Yetimatic", "S'more Serat"
+    "Gambatron", "Bumbatron", "La Fuse Machine", "Yetimatic", "S'more Serat",
+    "Rubiko And Kubiko"
 }
