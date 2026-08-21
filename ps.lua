@@ -15,5 +15,5 @@ getgenv().PRIORITY   = {
     "Rubrikiko", "Venuspino", "Los Sekolahs", "Dragon Aquanini", "Globa Steppa",
     "Gambatron", "Bumbatron", "La Fuse Machine", "Yetimatic", "S'more Serat",
     "Rubiko And Kubiko", "Los Secret Combinasionas", "Examen Bros", "Jelly Moby",
-    "Moby Bros", "Los Amigos", "La Breakfast Combinasion"
+    "Moby Bros", "Los Amigos", "La Breakfast Combinasion", "Grabatron"
 }
