@@ -16,5 +16,6 @@ getgenv().PRIORITY   = {
     "Gambatron", "Bumbatron", "La Fuse Machine", "Yetimatic", "S'more Serat",
     "Rubiko And Kubiko", "Los Secret Combinasionas", "Examen Bros", "Jelly Moby",
     "Moby Bros", "Los Amigos", "La Breakfast Combinasion", "Grabatron", "Quackini Snackini",
-    "Polaroidini", "Sammyni Truckini", "Duggy Bros", "Capitano Americano", "Bunny And Eggy"
+    "Polaroidini", "Sammyni Truckini", "Duggy Bros", "Capitano Americano", "Bunny And Eggy",
+    "Hydra Serpent", "Los Dragons"
 }
